@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenConnect", "GreenConnect.csproj", "{EA70A762-FEE0-428C-8C07-56D7D222174E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA70A762-FEE0-428C-8C07-56D7D222174E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA70A762-FEE0-428C-8C07-56D7D222174E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA70A762-FEE0-428C-8C07-56D7D222174E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA70A762-FEE0-428C-8C07-56D7D222174E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7726585A-5F0A-4869-930A-2E4DBA7E2CC5}
+	EndGlobalSection
+EndGlobal
